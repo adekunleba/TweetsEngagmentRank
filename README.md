@@ -1,2 +1,2 @@
 # TweetsEngagmentRank
-A Project to Score highest risk based on some characteristics of the tweets
+A Project to Score highest tweets based on some characteristics of the tweets
