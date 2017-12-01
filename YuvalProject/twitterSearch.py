@@ -109,7 +109,7 @@ def main():
 
 
     ''' search variables: '''
-    search_phrases = ['#monolith']
+    search_phrases = ['Rihanna -filter:retweets']
     time_limit = 1.5                           # runtime limit in hours
     max_tweets = 100                           # number of tweets per search (will be
                                                # iterated over) - maximum is 100
